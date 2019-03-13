@@ -1,4 +1,4 @@
-'''
+"""
 王者农药 beta-0.1
 Tang
 201807026
@@ -17,14 +17,14 @@ print("请给",userName,"定个角色类型吧：")
 userFlag = input()
 print("您好",logName,"，您的",userFlag,userName,"诞生了！！！")
 
-'''
+"""
 
-'''
+"""
 王者农药 beta-0.1
 Tang
 20180801
 Tangjun
-'''
+"""
 print("欢迎来到王者农药，请先完成注册吧！")
 logName = input('请输入您的用户名：')
 if not logName :
