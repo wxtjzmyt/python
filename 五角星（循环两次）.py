@@ -43,7 +43,7 @@ turtle.end_fill() #这是填充颜色的结束位置
 # 这是画两个五角星时用循环画
 
 import turtle
-turtle.color("red","red") # 这是修改画笔颜色和修改填充颜色
+turtle.color("yellow","red") # 这是修改画笔颜色和修改填充颜色
 for i in range(2):
     turtle.penup() # 这是抬起画笔
     turtle.forward(120)
